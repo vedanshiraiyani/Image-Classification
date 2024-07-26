@@ -15,7 +15,6 @@ The project is implemented in several steps simulating the essential data proces
 - Each step is represented in a specific section inside the corresponding notebook.
 
 ### **CIFAR-10 Classification: Tensorflow**
-> Corresponding notebook:  [image-classification-tensorflow.ipynb](https://github.com/sinanw/cnn-image-classification/blob/main/notebooks/image-classification-tensorflow.ipynb)
 
 **STEP 1 - Initialization:** importing necessary libraries and modules.
 
