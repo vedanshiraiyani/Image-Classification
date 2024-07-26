@@ -40,7 +40,7 @@ The project is implemented in several steps simulating the essential data proces
 - Optimizer: [Adam](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam).
 - Loss function: [Categorical Crossentropy](https://www.tensorflow.org/api_docs/python/tf/keras/losses/categorical_crossentropy).
 - Batch size: 32
-- Epochs: 25
+- Epochs: 10
 
 **STEP 6 - Performance Analysis:** model accuracy is plotted and analyzed across the epochs. 
 - Training and validation accuracy across epochs (Tensorflow)
