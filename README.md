@@ -11,10 +11,6 @@ The dataset has the following features:
 
 ## Image Classification Details
 The project is implemented in several steps simulating the essential data processing and analysis phases. <br/>
-- We implemented the classification in both [Tensorflow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) inside the [notebooks](/notebooks) folder.
-- Each step is represented in a specific section inside the corresponding notebook.
-
-### **CIFAR-10 Classification: Tensorflow**
 
 **STEP 1 - Initialization:** importing necessary libraries and modules.
 
